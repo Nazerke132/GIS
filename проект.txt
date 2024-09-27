@@ -1,1 +1,9 @@
 print("Hello, world!")
+
+console.log("Hello, world!")
+person = {
+  "first_name": "Иван",
+  "last_name": "Иванов",
+  "age": 30
+}
+print(person["first_name"], person["last_name"], "(", person["age"], ")")
