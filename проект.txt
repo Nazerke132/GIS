@@ -1,6 +1,5 @@
 print("Hello, world!")
 
-console.log("Hello, world!")
 person = {
   "first_name": "Иван",
   "last_name": "Иванов",
